@@ -1,0 +1,11 @@
+pandas
+numpy
+openai
+streamlit
+plotly
+faiss-cpu
+sentence-transformers
+python-dotenv
+transformers
+torch
+sentencepiece
